@@ -5,6 +5,7 @@ Ccc
 Ddd
 hello
 dev1
+<<<<<<< HEAD
  HEAD
 deva
 devs
@@ -12,3 +13,9 @@ issue-01
 dev
 devstash
 dev
+dev
+devstash
+deva
+devs
+issue-01
+
